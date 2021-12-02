@@ -22,7 +22,8 @@
 ### AJAX
 
 ## This is the default page.
-![Type in London and click Search](https://user-images.githubusercontent.com/37889335/144521161-838d8c87-12ff-495b-86bd-72af0861df5c.PNG)
+![Default Picture](https://user-images.githubusercontent.com/37889335/144521165-057b4efe-082d-49b2-8f9b-8da8b29a916b.PNG)
+
 
 
 ## Enter the City/Country and click the Search Bar.
@@ -30,4 +31,4 @@
 
 
 ## History of previous Search is saved.
-![Default Picture](https://user-images.githubusercontent.com/37889335/144521165-057b4efe-082d-49b2-8f9b-8da8b29a916b.PNG)
+![Type in London and click Search](https://user-images.githubusercontent.com/37889335/144521161-838d8c87-12ff-495b-86bd-72af0861df5c.PNG)
