@@ -35,3 +35,7 @@ AJAX
 
 ## History of previous Search is saved.
 ![Type in London and click Search](https://user-images.githubusercontent.com/37889335/144521161-838d8c87-12ff-495b-86bd-72af0861df5c.PNG)
+
+
+## LINK TO Site: https://vohoang2005.github.io/weather-dashboard/
+## Create by: Chuong Vo
